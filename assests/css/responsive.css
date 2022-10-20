@@ -1,0 +1,203 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+@media  (max-width: 320px){
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 360px)*/
+@media  (max-width: 360px){
+	
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 375px)*/
+@media  (max-width: 375px){
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 414px)*/
+@media  (max-width: 414px){
+	
+	
+	
+	
+	
+	
+	
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	header .box h1 {
+		font-size: 10px;
+		padding: 10px 0;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.shred-secrets h2 {
+		margin-top: 20px;
+		margin-bottom: 10px;
+		font-size: 23px;
+		letter-spacing: -.02em;
+	}
+	.shred-secrets .time-counter h3 {
+		font-size: 22px;
+	}
+	.shred-secrets .features ul li {
+		line-height: 24px;
+		font-size: 16px;
+	}
+	.shred-secrets .features ul li::before {
+		zoom: 90%;
+	}
+	.guarantee {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.shred-secrets.shred-secrets2 h2 {
+		font-size: 23px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.shred-secrets.shred-secrets2 .time-counter .insertion .purchase img.img1,
+	.shred-secrets.shred-secrets2 .time-counter .insertion .purchase img.img4{
+		display: none;
+	}
+	.modal-dialog {
+		max-width: 100%;
+	}
+	.modal-footer a.btn1 {
+		margin: 0 auto 8px !important;
+		padding: 7px 0  !important;
+		background-image: linear-gradient(-180deg,#fff39c 0%,#f2cd4d 100%);
+		border: 2px solid #c09400;
+		font-size: 8px;
+	}
+	.modal-footer {
+		margin-top: -22%;
+	}
+	.modal-footer a.btn2 {
+		margin: 0 auto 8px !important;
+		padding: 7px 0  !important;
+		background: #f0f0f0;
+		border: 3px solid #c5c5c5;
+		color: #b9b9b9;
+		font-size: 8px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+	
+	
+	
+	
+	
+	
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+	
+	
+	
+	
+	
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+	
+	
+	
+	
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1440px) and (max-width: 1699.98px){}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 1700px) and (max-width: 2099.98px){
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+@media (min-width: 2100px){
+	
+	
+	
+	
+}
+/* 
+2160*1440
+2560*1440
+1920×1080
+1600×900
+1536×864
+1440×900
+1366×768    
+1280×720    
+1280×800    
+1280×1024   
+1024×768    
+768×1024
+ */
+
+
+
+
+
+
+
+
+
+
+
