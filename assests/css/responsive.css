@@ -95,7 +95,10 @@
 		font-size: 8px;
 	}
 
-
+.shred-secrets .time-counter .insertion .purchase img.img1,
+.shred-secrets .time-counter .insertion .purchase img.img4{
+	display: none;
+}
 
 
 

@@ -214,15 +214,7 @@ shred-secrets start
     background-color: rgba(255, 255, 255, 0.32);
 }
 /* video end */
-.shred-secrets.shred-secrets2 .time-counter .insertion .purchase img.img1{
-    width: 15%;
-    margin-left: 20px;
-    margin-right: 0;
-}
-.shred-secrets.shred-secrets2 .time-counter .insertion .purchase img.img4{
-    width: 15%;
-    margin-left: 20px;
-}
+
 .shred-secrets.shred-secrets2 h2 {
     margin-top: 20px;
     margin-bottom: 10px;
