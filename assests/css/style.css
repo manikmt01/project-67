@@ -177,7 +177,6 @@ shred-secrets start
     content: url(../images/tick.png);
     left: 0;
     top: 0;
-
     width: 21px;
 }
 .fast-timer {
@@ -214,7 +213,6 @@ shred-secrets start
     background-color: rgba(255, 255, 255, 0.32);
 }
 /* video end */
-
 .shred-secrets.shred-secrets2 h2 {
     margin-top: 20px;
     margin-bottom: 10px;
