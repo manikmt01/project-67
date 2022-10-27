@@ -73,7 +73,10 @@
 .video-wrapper .video-top p {
     font-size: 16px;
 }
-
+.ratio-16x9 {
+    max-width: 100%;
+    margin: auto;
+}
 
 
 
