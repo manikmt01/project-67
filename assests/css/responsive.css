@@ -61,6 +61,23 @@
 	.shred-secrets .time-counter .insertion .purchase img.img4{
 		display: none;
 	}
+.video-wrapper .video-top h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 23px;
+}
+.video-wrapper .video-top h4 {
+    font-weight: 400;
+    font-size: 20px;
+}
+.video-wrapper .video-top p {
+    font-size: 16px;
+}
+
+
+
+
+
 }
 /*// Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) {

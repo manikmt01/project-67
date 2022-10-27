@@ -193,11 +193,30 @@ shred-secrets start
     width: 100%;
     margin: 0 auto;
 }
+.video-wrapper .video-top {}
+.video-wrapper .video-top {
+    padding-bottom: 40px;
+}
+.video-wrapper .video-top h2{
+        margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.video-wrapper .video-top h4{
+    font-weight: 400;
+}
+.video-wrapper .video-top p {
+    font-size: 18px;
+    margin-bottom: 0;
+}
 .vid {
     background-size: cover;
     background-position: center;
     background-repeat: none;
     cursor: pointer;
+}
+.underline{
+    text-decoration: underline;
 }
 .vid img{
     opacity: .9;
