@@ -193,7 +193,9 @@ shred-secrets start
     width: 100%;
     margin: 0 auto;
 }
-.video-wrapper .video-top {}
+.video-wrapper .video-top {
+    padding-bottom: 20px;
+}
 .video-wrapper .video-top {
     padding-bottom: 40px;
 }
